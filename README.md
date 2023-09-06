@@ -13,7 +13,7 @@ Mahmoud Essam's profile!
 
 - 🏢 I'm a  UI Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to UI development.
+- 💬 Ask me about my experience with UI&UX, Figma, JavaScript, ReactJS, or anything related to UI development.
 - 👨‍💻 Check out my portfolio at https://dribbble.com/mmuessam to see some of the projects I've worked on.
 
 
